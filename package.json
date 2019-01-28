@@ -7,13 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "MIT",
+  "author": "Ali Versi (https://github.com/3liv)",
+  "license": "https://3liv.mit-license.org",
   "dependencies": {
-    "copy-webpack-plugin": "^4.6.0",
     "glob": "^7.1.3",
     "path": "^0.12.7",
-    "utilise": "^2.3.8",
-    "webpack": "^4.27.1"
+    "utilise": "^2.3.8"
   }
 }
